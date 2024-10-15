@@ -1,0 +1,17 @@
+body{
+
+}
+
+.container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    inset: 0;
+} 
+
+.items {
+    height: 250px;
+    width: 250px;
+    background-color: chartreuse;
+}
